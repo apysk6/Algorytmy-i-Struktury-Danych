@@ -2,3 +2,4 @@
 Projekty z przedmiotu Algorytmy i Struktury Danych w C#:
 
 <p>1. <a href="https://github.com/apysk6/Algorytmy-i-Struktury-Danych/tree/master/RedBlackTree">Red Black Tree</a>
+<p>2. <a href="https://github.com/apysk6/Algorytmy-i-Struktury-Danych/tree/master/LCS">Longest Common Subsequence</a>
